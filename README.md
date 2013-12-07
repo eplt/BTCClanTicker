@@ -2,6 +2,8 @@
 
 I am about to launch a new site for bitcoin users, http://www.BTCClan.com/
 
+Support this development and/or specific feature request: Donation: 1E9EDagvf8rUgvh1XQnLSw993WceYj8ZN9
+
 I made this fork for myself but thought you guys might like it too.
 I plan to use this fork to improve the user experience for less technical minded traders. 
 I mainly use OS X as my main business is mobile apps.
@@ -53,4 +55,4 @@ https://vip.btcchina.com/
 
 
 ## Credits
-This project is based on QtBitcoinTrader created by July IGHOR, Contact: `julyighor@gmail.com`, Donate: `1d6iMwjjNo8ZGYeJBZKXgcgVk9o7fXcjc`
+This project is based on ibittler/CoinNotify ibittler@outlook.com, Donate to original author: `12DLbJY48o5vFn3f7eDy7g98yPfo215W4b`
